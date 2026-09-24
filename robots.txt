@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://capt-fluffyface-labs.github.io/sitemap.xml
